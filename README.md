@@ -18,4 +18,4 @@
 #
 # 📚 Book Made by me : <br/>
 [![Python Projects source code for beginners Paperback  ](https://img.shields.io/badge/Book–-%013220.svg?)](https://amzn.in/d/08kXInh4) <br/>
-[![🕸YuvaHub]([url=https://www.gta-multiplayer.cz/en/profile/fireankit/][img]https://www.gta-multiplayer.cz/game-badge/?user=308461&lang=en&s=1784828622&stats=playing-time&color=black[/img][/url])<br/>
+#
